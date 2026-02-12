@@ -1,3 +1,3 @@
 read me
 daily update 
-part 
+part 2
