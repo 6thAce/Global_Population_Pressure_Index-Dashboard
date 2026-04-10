@@ -1,4 +1,4 @@
-﻿Location,Time,TPopulation1Jan,PopGrowthRate
+﻿country,year,population,population_growth_rate
 ADB region: Central and West Asia,1950,68501.28,2.058
 ADB region: Central and West Asia,1951,69925.568,2.143
 ADB region: Central and West Asia,1952,71439.952,2.212
@@ -70983,158 +70983,6 @@ Americas,2098,1095785.971,-0.269
 Americas,2099,1092846.149,-0.269
 Americas,2100,1089912.849,-0.276
 Americas,2101,1086913.655,
-Latin America and the Caribbean,1950,165627.351,2.569
-Latin America and the Caribbean,1951,169936.964,2.604
-Latin America and the Caribbean,1952,174420.359,2.628
-Latin America and the Caribbean,1953,179065.147,2.645
-Latin America and the Caribbean,1954,183865.128,2.669
-Latin America and the Caribbean,1955,188839.365,2.684
-Latin America and the Caribbean,1956,193976.839,2.704
-Latin America and the Caribbean,1957,199293.643,2.714
-Latin America and the Caribbean,1958,204775.622,2.719
-Latin America and the Caribbean,1959,210419.191,2.737
-Latin America and the Caribbean,1960,216257.648,2.746
-Latin America and the Caribbean,1961,222278.098,2.763
-Latin America and the Caribbean,1962,228505.219,2.755
-Latin America and the Caribbean,1963,234887.733,2.741
-Latin America and the Caribbean,1964,241415.582,2.712
-Latin America and the Caribbean,1965,248051.84,2.674
-Latin America and the Caribbean,1966,254773.418,2.63
-Latin America and the Caribbean,1967,261561.857,2.584
-Latin America and the Caribbean,1968,268408.161,2.535
-Latin America and the Caribbean,1969,275300.589,2.495
-Latin America and the Caribbean,1970,282257.09,2.439
-Latin America and the Caribbean,1971,289224.775,2.426
-Latin America and the Caribbean,1972,296327.819,2.399
-Latin America and the Caribbean,1973,303521.598,2.378
-Latin America and the Caribbean,1974,310826.114,2.341
-Latin America and the Caribbean,1975,318188.663,2.312
-Latin America and the Caribbean,1976,325631.823,2.281
-Latin America and the Caribbean,1977,333144.09,2.285
-Latin America and the Caribbean,1978,340844.65,2.264
-Latin America and the Caribbean,1979,348650.884,2.233
-Latin America and the Caribbean,1980,356523.85,2.202
-Latin America and the Caribbean,1981,364462.484,2.143
-Latin America and the Caribbean,1982,372358.558,2.133
-Latin America and the Caribbean,1983,380385.43,2.128
-Latin America and the Caribbean,1984,388567.665,2.089
-Latin America and the Caribbean,1985,396770.291,2.043
-Latin America and the Caribbean,1986,404960.413,1.996
-Latin America and the Caribbean,1987,413123.055,1.963
-Latin America and the Caribbean,1988,421311.64,1.934
-Latin America and the Caribbean,1989,429539.767,1.892
-Latin America and the Caribbean,1990,437741.901,1.875
-Latin America and the Caribbean,1991,446027.411,1.8
-Latin America and the Caribbean,1992,454130.325,1.785
-Latin America and the Caribbean,1993,462309.257,1.717
-Latin America and the Caribbean,1994,470316.033,1.69
-Latin America and the Caribbean,1995,478330.265,1.651
-Latin America and the Caribbean,1996,486291.856,1.608
-Latin America and the Caribbean,1997,494176.042,1.575
-Latin America and the Caribbean,1998,502021.738,1.562
-Latin America and the Caribbean,1999,509923.792,1.497
-Latin America and the Caribbean,2000,517614.361,1.423
-Latin America and the Caribbean,2001,525032.326,1.36
-Latin America and the Caribbean,2002,532219.394,1.315
-Latin America and the Caribbean,2003,539263.101,1.262
-Latin America and the Caribbean,2004,546112.796,1.231
-Latin America and the Caribbean,2005,552875.045,1.2
-Latin America and the Caribbean,2006,559549.323,1.175
-Latin America and the Caribbean,2007,566160.478,1.162
-Latin America and the Caribbean,2008,572775.527,1.137
-Latin America and the Caribbean,2009,579322.679,1.106
-Latin America and the Caribbean,2010,585768.017,1.066
-Latin America and the Caribbean,2011,592047.67,1.074
-Latin America and the Caribbean,2012,598437.705,1.044
-Latin America and the Caribbean,2013,604716.137,1.027
-Latin America and the Caribbean,2014,610958.863,0.996
-Latin America and the Caribbean,2015,617071.61,0.958
-Latin America and the Caribbean,2016,623013.608,0.93
-Latin America and the Caribbean,2017,628831.68,0.869
-Latin America and the Caribbean,2018,634319.189,0.846
-Latin America and the Caribbean,2019,639705.132,0.776
-Latin America and the Caribbean,2020,644685.94,0.632
-Latin America and the Caribbean,2021,648772.828,0.52
-Latin America and the Caribbean,2022,652157.752,0.675
-Latin America and the Caribbean,2023,656575.828,0.703
-Latin America and the Caribbean,2024,661207.205,0.681
-Latin America and the Caribbean,2025,665724.939,0.648
-Latin America and the Caribbean,2026,670052.165,0.62
-Latin America and the Caribbean,2027,674218.958,0.598
-Latin America and the Caribbean,2028,678265.289,0.572
-Latin America and the Caribbean,2029,682157.539,0.551
-Latin America and the Caribbean,2030,685925.951,0.529
-Latin America and the Caribbean,2031,689560.842,0.507
-Latin America and the Caribbean,2032,693065.065,0.484
-Latin America and the Caribbean,2033,696430.034,0.462
-Latin America and the Caribbean,2034,699658.44,0.441
-Latin America and the Caribbean,2035,702753.233,0.419
-Latin America and the Caribbean,2036,705701.176,0.395
-Latin America and the Caribbean,2037,708494.08,0.372
-Latin America and the Caribbean,2038,711131.751,0.35
-Latin America and the Caribbean,2039,713625.441,0.325
-Latin America and the Caribbean,2040,715947.985,0.302
-Latin America and the Caribbean,2041,718112.688,0.276
-Latin America and the Caribbean,2042,720098.477,0.252
-Latin America and the Caribbean,2043,721915.864,0.226
-Latin America and the Caribbean,2044,723551.913,0.203
-Latin America and the Caribbean,2045,725020.18,0.178
-Latin America and the Caribbean,2046,726309.462,0.155
-Latin America and the Caribbean,2047,727434.668,0.132
-Latin America and the Caribbean,2048,728398.661,0.11
-Latin America and the Caribbean,2049,729198.568,0.085
-Latin America and the Caribbean,2050,729815.97,0.066
-Latin America and the Caribbean,2051,730297.523,0.043
-Latin America and the Caribbean,2052,730610.276,0.023
-Latin America and the Caribbean,2053,730775.4,0
-Latin America and the Caribbean,2054,730775.127,-0.021
-Latin America and the Caribbean,2055,730622.557,-0.04
-Latin America and the Caribbean,2056,730326.728,-0.061
-Latin America and the Caribbean,2057,729881.727,-0.081
-Latin America and the Caribbean,2058,729288.693,-0.099
-Latin America and the Caribbean,2059,728568.809,-0.12
-Latin America and the Caribbean,2060,727698.388,-0.138
-Latin America and the Caribbean,2061,726692.925,-0.156
-Latin America and the Caribbean,2062,725562.416,-0.174
-Latin America and the Caribbean,2063,724300.381,-0.192
-Latin America and the Caribbean,2064,722913.609,-0.208
-Latin America and the Caribbean,2065,721408.233,-0.227
-Latin America and the Caribbean,2066,719770.905,-0.244
-Latin America and the Caribbean,2067,718016.722,-0.26
-Latin America and the Caribbean,2068,716152.257,-0.277
-Latin America and the Caribbean,2069,714174.753,-0.293
-Latin America and the Caribbean,2070,712087.413,-0.309
-Latin America and the Caribbean,2071,709889.336,-0.324
-Latin America and the Caribbean,2072,707593.507,-0.339
-Latin America and the Caribbean,2073,705197.319,-0.355
-Latin America and the Caribbean,2074,702697.412,-0.369
-Latin America and the Caribbean,2075,700110.452,-0.383
-Latin America and the Caribbean,2076,697431.579,-0.397
-Latin America and the Caribbean,2077,694666.528,-0.412
-Latin America and the Caribbean,2078,691808.899,-0.427
-Latin America and the Caribbean,2079,688863.194,-0.44
-Latin America and the Caribbean,2080,685838.555,-0.453
-Latin America and the Caribbean,2081,682736.8,-0.466
-Latin America and the Caribbean,2082,679564.983,-0.476
-Latin America and the Caribbean,2083,676335.507,-0.487
-Latin America and the Caribbean,2084,673048.454,-0.498
-Latin America and the Caribbean,2085,669702.642,-0.51
-Latin America and the Caribbean,2086,666294.046,-0.521
-Latin America and the Caribbean,2087,662830.241,-0.53
-Latin America and the Caribbean,2088,659327.039,-0.538
-Latin America and the Caribbean,2089,655788.695,-0.547
-Latin America and the Caribbean,2090,652209.551,-0.555
-Latin America and the Caribbean,2091,648597.133,-0.562
-Latin America and the Caribbean,2092,644960.223,-0.568
-Latin America and the Caribbean,2093,641304.792,-0.577
-Latin America and the Caribbean,2094,637616.642,-0.582
-Latin America and the Caribbean,2095,633915.471,-0.588
-Latin America and the Caribbean,2096,630198.625,-0.593
-Latin America and the Caribbean,2097,626473.802,-0.596
-Latin America and the Caribbean,2098,622749.017,-0.6
-Latin America and the Caribbean,2099,619022.615,-0.602
-Latin America and the Caribbean,2100,615305.796,-0.606
-Latin America and the Caribbean,2101,611588.64,
 Caribbean,1950,17025.374,1.954
 Caribbean,1951,17361.299,1.934
 Caribbean,1952,17700.371,1.915
@@ -80255,158 +80103,6 @@ Oceania,2098,72373.287,0.324
 Oceania,2099,72607.906,0.311
 Oceania,2100,72834.363,0.305
 Oceania,2101,73057.031,
-Australia/New Zealand,1950,9941.588,2.903
-Australia/New Zealand,1951,10234.438,2.611
-Australia/New Zealand,1952,10505.193,2.32
-Australia/New Zealand,1953,10751.711,2.064
-Australia/New Zealand,1954,10975.953,2.138
-Australia/New Zealand,1955,11213.095,2.323
-Australia/New Zealand,1956,11476.611,2.289
-Australia/New Zealand,1957,11742.397,2.191
-Australia/New Zealand,1958,12002.529,2.145
-Australia/New Zealand,1959,12262.733,2.111
-Australia/New Zealand,1960,12524.304,2.148
-Australia/New Zealand,1961,12796.283,2.071
-Australia/New Zealand,1962,13064.097,1.934
-Australia/New Zealand,1963,13319.185,1.966
-Australia/New Zealand,1964,13583.574,1.946
-Australia/New Zealand,1965,13850.466,2.051
-Australia/New Zealand,1966,14137.475,1.928
-Australia/New Zealand,1967,14412.66,1.669
-Australia/New Zealand,1968,14655.217,1.749
-Australia/New Zealand,1969,14913.86,1.898
-Australia/New Zealand,1970,15199.7,2.878
-Australia/New Zealand,1971,15643.477,2.794
-Australia/New Zealand,1972,16086.781,1.693
-Australia/New Zealand,1973,16361.526,1.651
-Australia/New Zealand,1974,16633.819,1.514
-Australia/New Zealand,1975,16887.632,1.182
-Australia/New Zealand,1976,17088.41,0.99
-Australia/New Zealand,1977,17258.365,0.983
-Australia/New Zealand,1978,17428.917,0.919
-Australia/New Zealand,1979,17589.766,0.96
-Australia/New Zealand,1980,17759.505,1.211
-Australia/New Zealand,1981,17975.843,1.471
-Australia/New Zealand,1982,18242.24,1.473
-Australia/New Zealand,1983,18512.976,1.301
-Australia/New Zealand,1984,18755.367,1.22
-Australia/New Zealand,1985,18985.595,1.237
-Australia/New Zealand,1986,19221.956,1.335
-Australia/New Zealand,1987,19480.326,1.441
-Australia/New Zealand,1988,19763.097,1.477
-Australia/New Zealand,1989,20057.153,1.446
-Australia/New Zealand,1990,20349.223,1.696
-Australia/New Zealand,1991,20697.33,1.313
-Australia/New Zealand,1992,20970.906,1.05
-Australia/New Zealand,1993,21192.16,0.98
-Australia/New Zealand,1994,21400.881,1.093
-Australia/New Zealand,1995,21636.047,1.229
-Australia/New Zealand,1996,21903.499,1.191
-Australia/New Zealand,1997,22165.873,1.041
-Australia/New Zealand,1998,22397.852,1.024
-Australia/New Zealand,1999,22628.324,1.031
-Australia/New Zealand,2000,22862.747,1.107
-Australia/New Zealand,2001,23117.343,1.203
-Australia/New Zealand,2002,23397.048,1.269
-Australia/New Zealand,2003,23695.899,1.226
-Australia/New Zealand,2004,23988.183,1.18
-Australia/New Zealand,2005,24272.992,1.281
-Australia/New Zealand,2006,24586.001,1.506
-Australia/New Zealand,2007,24958.998,1.738
-Australia/New Zealand,2008,25396.63,1.84
-Australia/New Zealand,2009,25868.195,1.68
-Australia/New Zealand,2010,26306.435,1.381
-Australia/New Zealand,2011,26672.267,1.416
-Australia/New Zealand,2012,27052.684,1.553
-Australia/New Zealand,2013,27475.957,1.547
-Australia/New Zealand,2014,27904.286,1.524
-Australia/New Zealand,2015,28332.881,1.605
-Australia/New Zealand,2016,28791.181,1.746
-Australia/New Zealand,2017,29298.285,1.662
-Australia/New Zealand,2018,29789.295,1.541
-Australia/New Zealand,2019,30251.81,1.446
-Australia/New Zealand,2020,30692.423,0.787
-Australia/New Zealand,2021,30934.949,0.832
-Australia/New Zealand,2022,31193.279,0.89
-Australia/New Zealand,2023,31472.159,0.96
-Australia/New Zealand,2024,31775.761,0.948
-Australia/New Zealand,2025,32078.537,0.915
-Australia/New Zealand,2026,32373.313,0.869
-Australia/New Zealand,2027,32655.837,0.85
-Australia/New Zealand,2028,32934.446,0.824
-Australia/New Zealand,2029,33206.888,0.782
-Australia/New Zealand,2030,33467.448,0.765
-Australia/New Zealand,2031,33724.329,0.744
-Australia/New Zealand,2032,33976.224,0.714
-Australia/New Zealand,2033,34219.852,0.701
-Australia/New Zealand,2034,34460.603,0.685
-Australia/New Zealand,2035,34697.511,0.685
-Australia/New Zealand,2036,34936.03,0.675
-Australia/New Zealand,2037,35172.774,0.647
-Australia/New Zealand,2038,35401.209,0.657
-Australia/New Zealand,2039,35634.649,0.631
-Australia/New Zealand,2040,35860.208,0.637
-Australia/New Zealand,2041,36089.274,0.645
-Australia/New Zealand,2042,36322.842,0.646
-Australia/New Zealand,2043,36558.066,0.628
-Australia/New Zealand,2044,36788.352,0.618
-Australia/New Zealand,2045,37016.482,0.62
-Australia/New Zealand,2046,37246.876,0.627
-Australia/New Zealand,2047,37481,0.586
-Australia/New Zealand,2048,37701.246,0.614
-Australia/New Zealand,2049,37933.543,0.574
-Australia/New Zealand,2050,38151.734,0.578
-Australia/New Zealand,2051,38372.78,0.572
-Australia/New Zealand,2052,38592.825,0.548
-Australia/New Zealand,2053,38804.757,0.549
-Australia/New Zealand,2054,39018.46,0.554
-Australia/New Zealand,2055,39235.241,0.553
-Australia/New Zealand,2056,39452.747,0.53
-Australia/New Zealand,2057,39662.507,0.528
-Australia/New Zealand,2058,39872.478,0.543
-Australia/New Zealand,2059,40089.428,0.51
-Australia/New Zealand,2060,40294.212,0.503
-Australia/New Zealand,2061,40497.557,0.506
-Australia/New Zealand,2062,40702.891,0.512
-Australia/New Zealand,2063,40911.812,0.511
-Australia/New Zealand,2064,41121.305,0.485
-Australia/New Zealand,2065,41321.412,0.5
-Australia/New Zealand,2066,41528.576,0.518
-Australia/New Zealand,2067,41744.156,0.515
-Australia/New Zealand,2068,41959.671,0.514
-Australia/New Zealand,2069,42175.71,0.506
-Australia/New Zealand,2070,42389.871,0.491
-Australia/New Zealand,2071,42598.458,0.471
-Australia/New Zealand,2072,42799.695,0.481
-Australia/New Zealand,2073,43005.871,0.479
-Australia/New Zealand,2074,43212.19,0.484
-Australia/New Zealand,2075,43421.894,0.476
-Australia/New Zealand,2076,43629.18,0.47
-Australia/New Zealand,2077,43834.856,0.483
-Australia/New Zealand,2078,44046.969,0.473
-Australia/New Zealand,2079,44255.786,0.467
-Australia/New Zealand,2080,44462.855,0.46
-Australia/New Zealand,2081,44668.007,0.482
-Australia/New Zealand,2082,44883.867,0.46
-Australia/New Zealand,2083,45090.882,0.472
-Australia/New Zealand,2084,45304.013,0.445
-Australia/New Zealand,2085,45505.88,0.447
-Australia/New Zealand,2086,45709.932,0.461
-Australia/New Zealand,2087,45921.339,0.475
-Australia/New Zealand,2088,46140.13,0.504
-Australia/New Zealand,2089,46373.422,0.48
-Australia/New Zealand,2090,46596.698,0.499
-Australia/New Zealand,2091,46829.716,0.498
-Australia/New Zealand,2092,47063.509,0.49
-Australia/New Zealand,2093,47294.466,0.477
-Australia/New Zealand,2094,47520.686,0.451
-Australia/New Zealand,2095,47735.422,0.461
-Australia/New Zealand,2096,47956.128,0.475
-Australia/New Zealand,2097,48184.676,0.483
-Australia/New Zealand,2098,48418.074,0.451
-Australia/New Zealand,2099,48636.889,0.436
-Australia/New Zealand,2100,48849.65,0.434
-Australia/New Zealand,2101,49062.306,
 Australia,1950,8048.9,3.127
 Australia,1951,8304.6,2.709
 Australia,1952,8532.62,2.273
@@ -84359,3 +84055,307 @@ Wallis and Futuna Islands,2098,7.084,-1.164
 Wallis and Futuna Islands,2099,7.002,-1.25
 Wallis and Futuna Islands,2100,6.915,-1.091
 Wallis and Futuna Islands,2101,6.84,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
