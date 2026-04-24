@@ -28,7 +28,7 @@ Such dashboards are commonly used to explore relationships between population an
 Global_Population_Pressure_Index-Dashboard/
 │ 
 ├── data/                 # Raw and processed datasets 
-├── dashboard/            # Dashboard files (Power BI / Tableau / scripts) 
+├── dashboard/            # Dashboard files (Power BI) 
 ├── images/               # Screenshots or visuals 
 ├── notebooks/            # Data preprocessing / analysis 
 ├── README.md             # Project documentation 
