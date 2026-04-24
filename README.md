@@ -26,3 +26,45 @@ Such dashboards are commonly used to explore relationships between population an
 ## 📁 Project Structure
 
 Global_Population_Pressure_Index-Dashboard/ │ ├── data/                  # Raw and processed datasets ├── dashboard/            # Dashboard files (Power BI / Tableau / scripts) ├── images/               # Screenshots or visuals ├── notebooks/            # Data preprocessing / analysis ├── README.md             # Project documentation └── requirements.txt    
+
+---
+
+## 📌 Features
+
+- 🌐 **Global Coverage** — Multi-country dataset
+- 📈 **Interactive Visualizations** — Charts, maps, filters
+- 🔍 **Drill-down Analysis** — Country-level insights
+- ⚖️ **Composite Index** — Population Pressure Index calculation
+- 📊 **Comparative Analytics** — Cross-country comparisons
+
+---
+
+## 📊 Key Metrics Used
+
+The index may include combinations of:
+
+- Population density
+- Growth rate
+- GDP per capita
+- Resource availability
+- Urbanization rate
+- Environmental indicators
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Power BI / Tableau / Python (Dash/Plotly)** *(depending on implementation)*
+- Data sources:
+  - World Bank
+  - Kaggle datasets
+  - Open global datasets
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+git clone https://github.com/6thAce/Global_Population_Pressure_Index-Dashboard.git
+cd Global_Population_Pressure_Index-Dashboard
