@@ -167,10 +167,6 @@ All datasets are publicly available under their respective open data licenses:
 
 > 💡 If you use this project or its data pipeline, please credit the original data providers above.
 
-  - World Bank
-  - Kaggle datasets
-  - Open global datasets
-
 ---
 
 ## 🚀 Getting Started
